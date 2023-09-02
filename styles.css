@@ -1,0 +1,39 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+span {
+  display: block;
+}
+
+h1, h2 {
+    color: #747474;
+
+}
+.canvas {
+  margin: 100px auto 100px;
+  width: 80%;
+  text-align: center;
+}
+
+.button {
+  width: 100px;
+  height: 100px;
+  border: solid black 2px;
+  display: inline-block;
+}
+
+#orange {
+  background: #F34F1C;
+}
+
+#green {
+  background: #7FBC00;
+}
+#yellow {
+  background: #FFBA01;
+}
+#blue {
+  background: #01A6F0;
+}
